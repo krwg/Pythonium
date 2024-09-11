@@ -1,4 +1,4 @@
-# Pythonium V.0.1 (Snake on Python)
+# Pythonium (Snake on Python)
 
 ### The pyrpose:
 Make a copy of game "Snake" on Python with lib Pygame
