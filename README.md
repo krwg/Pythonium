@@ -9,4 +9,3 @@ Make a copy of game "Snake" on Python with lib Pygame
 ### System requirements:
 - Linux | Mac OS | Windows
 
-
