@@ -1,13 +1,12 @@
 # Pythonium V.0.1 (Snake on Python)
-___
-## The pyrpose:
-Make a copy of game "Snake" on Python with lib Pygame
 
-## Languages:
+### The pyrpose:
+Make a copy of game "Snake" on Python with lib Pygame
+### Languages:
 - Python 3.12
-## Libraries:
+### Libraries:
 - Pygame
-## System requirements:
+### System requirements:
 - Linux | Mac OS | Windows
 
 
