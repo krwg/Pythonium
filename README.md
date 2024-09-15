@@ -13,5 +13,5 @@ Make a copy of game "Snake" on Python with lib Pygame
 2. Upgrate pip:
 `pip install --upgrade pip`
 3. Install library Pygame
-`pip install pygame`
+`pip install -r requirements.txt`
 4. Run file `pythonium.py`
